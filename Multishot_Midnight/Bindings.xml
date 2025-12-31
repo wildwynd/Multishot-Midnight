@@ -1,0 +1,5 @@
+<Bindings xmlns="http://www.blizzard.com/wow/ui/">
+  <Binding name="MULTISHOTSCREENSHOT">
+    if Multishot and Multishot.CustomScreenshot then Multishot:CustomScreenshot("KEYBIND") else Screenshot() end
+  </Binding>
+</Bindings>

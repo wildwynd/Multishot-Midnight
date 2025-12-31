@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Multishot Midnight
+## Notes: Event-driven automatic screenshots for World of Warcraft
+## Author: Wynd
+## Version: 12.0.10
+## RequiredDeps: Ace3
+## OptionalDeps: LibSharedMedia-3.0
+## Bindings: Bindings.xml
