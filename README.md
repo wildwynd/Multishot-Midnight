@@ -79,4 +79,5 @@ Credits
 
 Original AddOn by Nukme
 Maintained and extended for Midnight by Wildwynd
+----------------------
 Contact: wildwynd01@gmail.com
