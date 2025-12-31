@@ -78,8 +78,5 @@ MIT License. See the LICENSE file for details.
 Credits
 
 Original AddOn by Nukme
-Midnight fork and continued development by Wynd
-
----
-
-If you want, I can also give you a **plain-text CurseForge description**, **plain-text changelog**, or a **one-paragraph short description** for the project header.
+Maintained and extended for Midnight by Wildwynd
+Contact: wildwynd01@gmail.com
