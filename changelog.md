@@ -20,4 +20,7 @@
 
 ## v12.0.5
 - 🧠 configDB OnEnable guard
-
+---------
+Known Issues
+- Watermark overlay may persist after test screenshots
+- Watermark formatting changes may require a reload

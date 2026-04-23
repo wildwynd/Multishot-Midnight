@@ -81,3 +81,11 @@ Original AddOn by Nukme
 Maintained and extended for Midnight by Wildwynd
 ----------------------
 Contact: wildwynd01@gmail.com
+
+--------------------------
+Known Issues
+
+- The watermark overlay may persist briefly after a screenshot is taken during test mode.
+- Changes to watermark formatting options may not apply immediately and may require a reload.
+- These issues do not affect screenshot capture or addon stability and will be addressed in a future update.
+
